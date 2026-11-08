@@ -1,0 +1,10 @@
+.env
+*.db
+.cache/
+__pycache__/
+*.pyc
+.venv/
+venv/
+leads_*.csv
+service-account*.json
+.streamlit/secrets.toml
